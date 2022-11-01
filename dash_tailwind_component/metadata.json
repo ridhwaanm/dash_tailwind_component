@@ -1,0 +1,44 @@
+{
+  "src/lib/components/NavBar.react.js": {
+    "description": "Simple dark Nav Bar with mobile menu button on left.",
+    "displayName": "NavBar",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "navitems": {
+        "type": {
+          "name": "array"
+        },
+        "required": false,
+        "description": "The Nav Bar items with their href."
+      },
+      "company": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The name of the client."
+      },
+      "logo": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Sirv hosted url of the clients logo."
+      },
+      "docurl": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "External google doc with documentation on using the dash for end users"
+      }
+    }
+  }
+}

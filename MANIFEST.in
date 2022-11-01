@@ -1,0 +1,11 @@
+include dash_tailwind_component/dash_tailwind_component.min.js
+include dash_tailwind_component/dash_tailwind_component.min.js.map
+include dash_tailwind_component/async-*.js
+include dash_tailwind_component/async-*.js.map
+include dash_tailwind_component/*-shared.js
+include dash_tailwind_component/*-shared.js.map
+include dash_tailwind_component/metadata.json
+include dash_tailwind_component/package-info.json
+include README.md
+include LICENSE
+include package.json
